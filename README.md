@@ -1,6 +1,6 @@
 ## Jungletic
 
-\*\*\* OBS \*\*\* : This a complete app that I have done by myself, I’m the only developer in my startup co-founders team and I built alone! 
+\*\*\* OBS \*\*\* : This is a complete app that I have done by myself, I’m the only developer in my startup co-founders team and I built alone, I can't show the code yet , beacause i'm working on some changes, but if you want to hire me, and you would like to see this amazing codebase feel free to contact me!
 
 ![](Aspose.Words.be59ac7a-bada-4ce5-940f-686c665c1ece.001.jpeg)![](Aspose.Words.be59ac7a-bada-4ce5-940f-686c665c1ece.002.jpeg)![](Aspose.Words.be59ac7a-bada-4ce5-940f-686c665c1ece.003.jpeg)
 
