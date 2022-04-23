@@ -1,3 +1,5 @@
+![](logo.png)
+
 ## Jungletic
 
 \*\*\* OBS \*\*\* : This is a complete app that I have done by myself, I’m the only developer in my startup co-founders team and I built alone, I can't show the code yet , beacause i'm working on some changes, but if you want to hire me, and you would like to see this amazing codebase feel free to contact me!
