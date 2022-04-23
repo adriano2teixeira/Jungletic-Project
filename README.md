@@ -1,4 +1,4 @@
-**Jungletic App**
+## Jungletic
 
 \*\*\* OBS \*\*\* : This a complete app that I have done by myself, I’m the only developer in my startup co-founders team and I built alone! 
 
